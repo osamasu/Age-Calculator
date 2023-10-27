@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\Computer Systems Converter\bin\Debug\Design.exe.config
+C:\Users\lenovo\Desktop\Computer Systems Converter\bin\Debug\Design.exe
+C:\Users\lenovo\Desktop\Computer Systems Converter\bin\Debug\Design.pdb
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Age Calculator.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Age Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Design.AgeCalculator.resources
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Design.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Age Calculator.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Age Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Age Calculator.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Design.exe
+C:\Users\lenovo\Desktop\Computer Systems Converter\obj\Debug\Design.pdb
